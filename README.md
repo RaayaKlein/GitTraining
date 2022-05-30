@@ -9,6 +9,7 @@ git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
 
 ### …or create a new repository on the command line
+
 ```
 echo "# GitTraining" >> README.md
 git init
@@ -24,4 +25,3 @@ git remote add origin https://github.com/RaayaKlein/GitTraining.git
 git branch -M main
 git push -u origin main
 ```
-
