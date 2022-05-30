@@ -1,9 +1,12 @@
 # Add data to repo of another user:
 
-### Git clone `http....` - take link from github web. 
+### 1. Git clone `http....` - take link from github web. 
 
 Download & Copy the folder to our computer. 
 
-### Update the data in our local folder. 
+### 2. Update the data in our local folder. 
 
-### More to come.........
+### 3. git commit -m ''
+
+### 4. git push -u origin master
+
