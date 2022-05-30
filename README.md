@@ -4,9 +4,11 @@
 
 # configure user: 
 
+```
 git config --global user.email "you@example.com"
 
 git config --global user.name "Your Name"
+```
 
 ### …or create a new repository on the command line
 
